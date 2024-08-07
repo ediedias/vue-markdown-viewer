@@ -1,35 +1,8 @@
-# vue-markdown-viewer
+# Markdown Previewer
 
-This template should help get you started developing with Vue 3 in Vite.
+A Markdown previewer that allows users to write and preview Markdown syntax in real-time. Built with Vue.js 3 and TailwindCSS, using the Composition API.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Real-time Markdown preview
+- Split-screen layout for input and output
